@@ -1,4 +1,4 @@
-https://github.com/sckorpio/TankRacer/blob/master/Screenshot%20(52).png
+![](Screenshot%20(64).png)
 
 # PROJECT TITLE: TankRacer!!!
 
